@@ -9,4 +9,4 @@ Web : HTML / CSS / JAVAScript / jQuery
 Window Application : C# / VB / .NET / Winform / Devexpress 
 DB :  Oracle / SQL / PLSQL
 
-📎  개발자를 동경하는 즐거운 주니어 개발자 이혜성 입니다.
+📎  현재 프론트엔드 개발자를 꿈꾸는 주니어 개발자 이혜성 입니다.
